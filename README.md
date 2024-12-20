@@ -1,2 +1,3 @@
 # SmarTiles
-Web App developed with Java / Spring Framework
+Web App desenvolvido com a linguagem Java e Spring Framework.
+Criado em com conjunto como Rafhael Banuls (link do perfil: https://github.com/banola)
